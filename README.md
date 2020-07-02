@@ -1,0 +1,2 @@
+# RecyclerViewItemAnimDemo
+给recyclerview添加动画
